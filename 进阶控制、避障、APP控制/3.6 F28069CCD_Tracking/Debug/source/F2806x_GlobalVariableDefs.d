@@ -1,0 +1,53 @@
+# FIXED
+
+source/F2806x_GlobalVariableDefs.obj: ../source/F2806x_GlobalVariableDefs.c
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Device.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Adc.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_BootVars.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Cla.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Comp.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_CpuTimers.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_DevEmu.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Dma.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_ECan.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_ECap.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_EPwm.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_EQep.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Gpio.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_HRCap.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_I2c.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Mcbsp.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_NmiIntrupt.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_PieCtrl.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_PieVect.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Spi.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Sci.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_SysCtrl.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Usb.h
+source/F2806x_GlobalVariableDefs.obj: D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_XIntrupt.h
+
+../source/F2806x_GlobalVariableDefs.c: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Device.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Adc.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_BootVars.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Cla.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Comp.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_CpuTimers.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_DevEmu.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Dma.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_ECan.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_ECap.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_EPwm.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_EQep.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Gpio.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_HRCap.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_I2c.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Mcbsp.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_NmiIntrupt.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_PieCtrl.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_PieVect.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Spi.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Sci.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_SysCtrl.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_Usb.h: 
+D:/workspace_v6_2/3.6\ F28069CCD_Tracking/include/F2806x_XIntrupt.h: 
